@@ -1,0 +1,4 @@
+isaac open chrome
+isaac close chrome
+isaac turn on light
+isaac turn off light
